@@ -1,0 +1,33 @@
+{
+  "name": "instalike-backend",
+  "version": "1.0.0",
+  "description": "Instalike Back-End: storage layer acting as a data 'warehouse' for the Instalike Front-End project",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "Talvanes Ferreira",
+    "email": "talvanesferreira@icloud.com",
+    "url": "https://github.com/talvanes"
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
