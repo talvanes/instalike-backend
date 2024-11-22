@@ -1,5 +1,5 @@
 import express from "express"; // Import Express.js framework for creating web applications
-import routes from "./src/routes/posts.routes.js";
+import routes from "./src/routes/posts.routes.js";  // Import post handling routes to use in the main application file
 
 const app = express(); // Create an Express application instance
 routes(app);
